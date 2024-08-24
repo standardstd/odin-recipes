@@ -8,3 +8,4 @@ Présentation du projet:
 Défis:
 
 Compétences acquises:
+ * Utilisation de commit conventionnel: https://www.conventionalcommits.org/en/v1.0.0/ 
