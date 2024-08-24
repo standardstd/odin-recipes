@@ -9,3 +9,4 @@ Défis:
 
 Compétences acquises:
  * Utilisation de commit conventionnel: https://www.conventionalcommits.org/en/v1.0.0/ 
+ * Utilisation de Github Pages
